@@ -1,4 +1,4 @@
-# Top 70 Django Interview Questions
+# Top 70 Django Interview Questions in 2025
 
 <div>
 <p align="center">
